@@ -47,7 +47,7 @@ Depois de passar por milhões de variáveis tendo que ler uma por uma <b>(inclus
 <br></br>
 <br></br>
 <img src="https://pa1.aminoapps.com/6815/c5d42ffab0a558ea1380635f59d56153d8148d9b_hq.gif">
-<h3><b>NÃO EXISTE NENHUM MODELO DE VARIÁVEL que faça essa tradução de codificação</b></h3></div>
+<h3><b>⭐NÃO EXISTE NENHUM MODELO DE VARIÁVEL que faça essa tradução de codificação!!⭐</b></h3></div>
 <br></br>
 <h1><b>O plano B</b></h1>
 
