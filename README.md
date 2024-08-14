@@ -5,7 +5,8 @@
 </head>
 <body>
 <h1>Como a União Européia e a Apple me deram um emprego sem nem saberem que eu existo?&#x1F1EA;&#x1F1FA;</h1>
-Com o Regulamento Geral sobre a Proteção de Dados,conhecida mundialmente como GDPR (no brasil temos a LGPD),a atualização do iOS 14 que praticamente obrigou a META a seguir a GDPR e o fim do suporte para cookies de terceiros por parte de navegadores e plataformas,houve mudanças significativas na forma como os dados dos usuários são coletados e tratados. Anteriormente, o Facebook e outras plataformas podiam coletar automaticamente uma série de informações dos usuários que acessavam anúncios,agora eles não podem mas deixando essa responsabilidade nas mãos dos anunciantes.
+Com o Regulamento Geral sobre a Proteção de Dados,conhecida mundialmente como GDPR (no brasil temos a LGPD),a atualização do iOS 14 que praticamente obrigou a META a seguir a GDPR e o fim do suporte para cookies de terceiros por parte de navegadores e plataformas,houve mudanças significativas na forma como os dados dos usuários são coletados e tratados. <br></br>
+Anteriormente, o Facebook e outras plataformas podiam coletar automaticamente uma série de informações dos usuários que acessavam anúncios,agora eles não podem mais, deixando essa responsabilidade nas mãos dos anunciantes.
 
 Os anunciantes têm a possibilidade de coletar esses dados diretamente dos usuários e enviá-los para as plataformas de anúncios, como o Facebook, utilizando métodos alternativos, como a API de Conversões (Conversions API).
 
