@@ -40,7 +40,7 @@ Explorei toda a plataforma da Stape.io mas não encontrei um jeito de trocar a c
 
 <h1>Dentro do Google Tag Manager</h1>
 <br></br>
-<div align="center">Dentro do conteiner Server Side, pensei em procurar um modelo de variável que transformasse a codificação ISO-8859-1 dos dados recebidos da stape para UTF-8<br></br>
+<div align="center">Dentro do conteiner Server Side, pensei em procurar um modelo de variável que transformasse a codificação ISO-8859-1 para UTF-8<br></br>
 <img src="https://github.com/user-attachments/assets/4386ee4d-e5e1-4c85-83df-4b6f826211bb">
 <br></br>
 Depois de passar por milhões de variáveis tendo que ler uma por uma <b>(inclusive as que estavam em chinês)</b> e entender o que cada uma fazia, descobri que...
