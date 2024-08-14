@@ -123,7 +123,7 @@ Depoimento de anunciantes que assistiram a aula e irão implementar toda a estru
 <h1>Conclusão:</h1>
 Mesmo diante de todo o cenário caótico para os anunciantes que mencionei no início,caso você tenha curiosidade e alguns conhecimentos de JavaScript e GTM Server Side é possível sim entregar para a META não só paramêtros enviados pela stape, mas como qualquer parâmetro vindo de outras fontes
 <br></br>
-Algo que já fiz em um outro projeto usando como base WebHooks junto ao GTM com manipulação de variáveis,mas isso deixo para um futuro readme.
+Algo que já fiz em um outro projeto usando como base WebHooks junto ao GTM com manipulação de variáveis,<br>mas isso deixo para um futuro readme.
 <br></br>
 <h1>Obrigado por ler até aqui!&#128075;</h1>
 </body>
