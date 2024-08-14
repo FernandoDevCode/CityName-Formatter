@@ -20,7 +20,7 @@ O stape coleta os dados que o facebook não coleta mais e envia para o GTM, para
 
 <h1>O GRANDE PROBLEMA:</h1>
 
-A maioria dos parâmetros que vieram da stape funcionaram, mas teve um que não funcionava 100% das vezes, esse parâmetro é o do nome das cidades.
+A maioria dos parâmetros que vieram da stape funcionaram, mas teve um que não funcionava 100% das vezes, esse parâmetro é o responsável por receber o nome das cidades dos visitantes.
 
 
 
