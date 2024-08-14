@@ -38,11 +38,25 @@ Mexi dentro da plataforma Stape.io e não encontrei um jeito de trocar a codific
 
 
 <h1>Dentro do Google Tag Manager</h1>
-Dentro da plataforma do lado do servidor, pensei que em procurar um modelo de variável que transformasse a codificação dos dados recebidos da stape
-<img src="https://github.com/user-attachments/assets/342d2d10-51ae-4327-af94-80c72f1aa23f" alt="Descrição da Imagem">
+<br></br>
+<div align="center">Dentro do conteiner Server Side, pensei em procurar um modelo de variável que transformasse a codificação ISO-8859-1 dos dados recebidos da stape para UTF-8<br></br>
+<img src="https://github.com/user-attachments/assets/4386ee4d-e5e1-4c85-83df-4b6f826211bb">
+<br></br>
+Depois de passar por milhões de variáveis tendo que ler uma por uma <b>(inclusive as que estavam em chinês)</b> e entender o que cada uma fazia, descobri que...
+<br></br>
+<br></br>
+<img src="https://pa1.aminoapps.com/6815/c5d42ffab0a558ea1380635f59d56153d8148d9b_hq.gif">
+<h3><b>NÃO EXISTE NENHUM MODELO DE VARIÁVEL que faça essa tradução de codificação</b></h3></div>
+<br></br>
+<h1><b>O plano B</b></h1>
+
+<h2>Se não existe, então crie!</h2>
+
+Foi um processo bem legal,criar o meu primeiro modelo de variável GTM Server Side,pois é bem diferente.<br>
+A documentação é um pouco confusa, o JavaScript que podemos usar é bastante limitado (SandBox), então acabei tendo que aprender algumas coisas a partir do código das variáveis que já estavam escritas pelas empresas parceiras do Google,as mesmas que mostrei agora pouco.
+<br>
 
 
 </body>
-
 
 
