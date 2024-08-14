@@ -15,7 +15,7 @@ O problema é que é um processo tão complexo de se fazer para um usuário comu
 <h1>STAPE.io</h1>
 O método mais comum para executar tudo isso é usando a plataforma da Stape.io junto ao Google Tag Manager(GTM).<br>
 <br>
-O stape coleta os dados que o facebook não coleta mais e envia para o GTM, para que lá o anunciante faça o tratamento de dados corretamente e envie finalmente ao facebook, para alimentar a inteligência de suas campanhas de anúncios dentro da plataforma META (Facebook e Instagram).<br></br>
+O stape coleta os dados que o Facebook não coleta mais e envia para o GTM, para que lá o anunciante faça o tratamento de dados corretamente e envie finalmente ao facebook, para alimentar a inteligência de suas campanhas de anúncios dentro da plataforma META (Facebook e Instagram).<br></br>
 
 <img src="https://github.com/user-attachments/assets/8d9f8e78-75c5-4cba-9a17-bbcd627f085b" alt="Descrição da Imagem">
 
