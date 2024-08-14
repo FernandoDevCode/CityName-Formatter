@@ -54,7 +54,7 @@ Depois de passar por milhões de variáveis tendo que ler uma por uma <b>(inclus
 <h2>Se não existe, então crie!</h2>
 
 Foi um processo bem legal,criar o meu primeiro modelo de variável GTM Server Side,pois é bem diferente.<br>
-A documentação é um pouco confusa, o JavaScript que podemos usar é bastante limitado (SandBox), então acabei tendo que aprender algumas coisas a partir do código das variáveis que já estavam escritas pelas empresas parceiras do Google,as mesmas que mostrei agora pouco.
+A documentação é um pouco confusa e não me ajudou muito, o JavaScript que podemos usar é bastante limitado (SandBox), então acabei tendo que aprender algumas coisas a partir do código das variáveis que já estavam escritas pelas empresas parceiras do Google,as mesmas que mostrei agora pouco.
 <br>
 
 
