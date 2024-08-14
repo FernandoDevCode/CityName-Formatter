@@ -110,13 +110,22 @@ Obs: Está com letras minúsculas e sem espaços entre as palavras, pois esse é
 
 <h1>FEEDBACK:</h1>
 Recentemente compartilhei esse mesmo código com um profissional da área de Traqueamento Avançado para Anúncios, e foi tão útil para ele que ele acabou gravando um video sobre:
-
+<br></br>
 https://youtu.be/WGRnwLpr2Co?si=WSYvPGNXngwgV1Rn&t=1610
+<br><I>O código é citado aos 26:51 desse video</I>
+<br></br>
 
-Eu sou citado aos 26:51 desse video
-
-
+<h1>Comentários:</h1>
+<div aling="center"><img src="https://github.com/user-attachments/assets/61a01ca4-5eae-4305-b8ae-69f6b0e420aa">
+Depoimento de anunciantes que assistiram a aula e irão implementar toda a estrutura discutida aqui para melhorar o resultado dos seus negócios.
+</div>
+<br></br>
 <h1>Conclusão:</h1>
+Mesmo diante de todo o cenário caótico para os anunciantes que mencionei no início,caso você tenha curiosidade e alguns conhecimentos de JavaScript e GTM Server Side é possível sim entregar para a META não só paramêtros enviados pela stape, mas como qualquer parâmetro vindo de outras fontes
+<br></br>
+Algo que já fiz em um outro projeto usando como base WebHooks junto ao GTM com manipulação de variáveis,mas isso deixo para um futuro readme.
+<br></br>
+<h1>Obrigado por ler até aqui!&#128075;</h1>
 </body>
 
 
