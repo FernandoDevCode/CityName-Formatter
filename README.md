@@ -98,7 +98,8 @@ Em seguida, apliquei a seguinte lógica de "se" e "então":
 
 <br></br>
 <h2>O código final ficou assim:</h2>
-<img src="https://github.com/user-attachments/assets/ec515026-b5ce-4df7-a513-97ff9f8005d8">
+<img src="https://github.com/user-attachments/assets/997e653c-8e8d-4960-85ab-c5296fca0ce9">
+
 <br></br>
 <div align="center">
 <b>Return</b><br>
