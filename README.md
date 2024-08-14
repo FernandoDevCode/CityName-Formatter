@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 </head>
 <body>
-<h1>Como consertei um problema que a União Europeia e a Apple criaram?&#128295;</h1>
+<h1>Como solucionei um problema que a União Europeia e a Apple criaram?&#128295;</h1>
 Com o Regulamento Geral sobre a Proteção de Dados,conhecida mundialmente como GDPR (no brasil temos a LGPD),a atualização do iOS 14 que praticamente obrigou a META a seguir a GDPR e o fim do suporte para cookies de terceiros por parte de navegadores e plataformas,houve mudanças significativas na forma como os dados dos usuários são coletados e tratados. <br></br>
 Anteriormente, o Facebook e outras plataformas podiam coletar automaticamente uma série de informações dos usuários que acessavam anúncios,agora eles não podem mais, deixando essa responsabilidade nas mãos dos anunciantes.
 
@@ -95,6 +95,11 @@ Em seguida, apliquei a seguinte lógica de "se" e "então":
 <br></br>
 <blockquote>Verifique cada caractere na variável `cityName`. Se identificar "Ã©" (ISO-8859-1), converta-o para "é" (UTF-8). Após finalizar a verificação de todos os caracteres, retorne `cityName` com todas as substituições efetuadas. Dessa forma, garantimos que a variável estará em UTF-8, sem erros de acentuação, eliminando qualquer risco de prejudicar a inteligência das campanhas de anúncios do nosso cliente.
 </blockquote>
+
+<br></br>
+<h2>O código final ficou assim:</h2>
+<img src="https://github.com/user-attachments/assets/ec515026-b5ce-4df7-a513-97ff9f8005d8">
+
 </body>
 
 
