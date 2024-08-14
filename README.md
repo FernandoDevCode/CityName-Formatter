@@ -10,7 +10,7 @@ Anteriormente, o Facebook e outras plataformas podiam coletar automaticamente um
 
 Os anunciantes têm a possibilidade de coletar esses dados diretamente dos usuários e enviá-los para as plataformas de anúncios, como o Facebook, utilizando métodos alternativos, como Advanced Matching usando API de Conversões (Conversions API).
 <br></br>
-O problema é que é um processo tão complexo de se fazer para um usuário comum,que faz muitos anunciantes acreditarem que inserir esses dados em suas campanhas de anúncios da META é impossível, e é ai que eu entro!
+O problema é que é um processo tão complexo de se fazer para um usuário comum,que faz muitos anunciantes acreditarem que inserir esses dados em suas campanhas de anúncios da META é impossível, e é ai que a minha história começa!
 
 <h1>STAPE.io</h1>
 O método mais comum para executar tudo isso é usando a plataforma da Stape.io junto ao Google Tag Manager(GTM).<br>
