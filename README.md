@@ -33,7 +33,7 @@ A maioria dos parâmetros que vieram da stape funcionaram, mas teve um que não 
 
 
 <h1>O primeiro passo para a solução!</h1>
-Ao pesquisar mais afundo descobri que aqueles caracteres estranhos são causados quando um caractere acentuado como "é" em UTF-8 (que é representado por dois bytes) é interpretado incorretamente como se estivesse em ISO-8859-1 (que interpretra no máximo 1 byte por caractere), ou seja a stape estava enviando os dados sempre em ISO-8859-1.
+Ao pesquisar mais afundo descobri que aqueles caracteres estranhos são causados quando um caractere acentuado como "é" em UTF-8 (que é representado por dois bytes) é interpretado incorretamente como se estivesse em ISO-8859-1 (que é capaz de interpretar no máximo 1 byte por caractere), ou seja a stape estava enviando os dados sempre em ISO-8859-1.
 <br></br>
 Mexi dentro da plataforma Stape.io e não encontrei um jeito de trocar a codificação dos dados,então me concentrei em traduzir esses assim que chegarem no Google Tag Manager.
 
