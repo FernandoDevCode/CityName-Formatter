@@ -116,8 +116,8 @@ https://youtu.be/WGRnwLpr2Co?si=WSYvPGNXngwgV1Rn&t=1610
 <br></br>
 
 <h1>Comentários:</h1>
-<div aling="center"><img src="https://github.com/user-attachments/assets/61a01ca4-5eae-4305-b8ae-69f6b0e420aa">
-Depoimento de anunciantes que assistiram a aula e irão implementar toda a estrutura discutida aqui para melhorar o resultado dos seus negócios.
+<div aling="center">Depoimento de anunciantes que assistiram a aula e irão implementar toda a estrutura discutida aqui para melhorar o resultado dos seus negócios.<br></br>
+  <img src="https://github.com/user-attachments/assets/61a01ca4-5eae-4305-b8ae-69f6b0e420aa">
 </div>
 <br></br>
 <h1>Conclusão:</h1>
