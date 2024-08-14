@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>Como solucionei um problema que a União Europeia e a Apple criaram?&#127822;</h1>
-Com o Regulamento Geral sobre a Proteção de Dados,conhecida mundialmente como GDPR (no brasil temos a LGPD),a atualização do iOS 14 que praticamente obrigou a META a seguir a GDPR e o fim do suporte para cookies de terceiros por parte de navegadores e plataformas,houve mudanças significativas na forma como os dados dos usuários são coletados e tratados. <br></br>
+Com o Regulamento Geral sobre a Proteção de Dados gerado pela União Europeia,conhecida mundialmente como GDPR (no brasil temos a LGPD),a atualização do iOS 14 que praticamente obrigou a META a seguir a GDPR e o fim do suporte para cookies de terceiros por parte de navegadores e plataformas(efeito do GDPR),houve mudanças significativas na forma como os dados dos usuários são coletados e tratados. <br></br>
 Anteriormente, o Facebook e outras plataformas podiam coletar automaticamente uma série de informações dos usuários que acessavam anúncios,agora eles não podem mais, deixando essa responsabilidade nas mãos dos anunciantes.
 
 Os anunciantes têm a possibilidade de coletar esses dados diretamente dos usuários e enviá-los para as plataformas de anúncios, como o Facebook, utilizando métodos alternativos, como Advanced Matching usando API de Conversões (Conversions API).
