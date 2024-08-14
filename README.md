@@ -13,7 +13,7 @@ Os anunciantes têm a possibilidade de coletar esses dados diretamente dos usuá
 <h1>STAPE.io</h1>
 O método mais comum para isso é usando a plataforma da Stape.io junto ao Google Tag Manager(GTM).<br>
 <br>
-Que coleta os dados que o facebook não coleta mais e envia para o GTM, para que lá o anunciante faça o tratamento de dados corretamente e envie finalmente ao facebook, para alimentar a inteligência de suas campanhas de anúncios dentro da plataforma META(Facebook e Instagram).
+O stape coleta os dados que o facebook não coleta mais e envia para o GTM, para que lá o anunciante faça o tratamento de dados corretamente e envie finalmente ao facebook, para alimentar a inteligência de suas campanhas de anúncios dentro da plataforma META(Facebook e Instagram).
 
 <img src="https://github.com/user-attachments/assets/8d9f8e78-75c5-4cba-9a17-bbcd627f085b" alt="Descrição da Imagem">
 
