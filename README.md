@@ -99,7 +99,24 @@ Em seguida, apliquei a seguinte lógica de "se" e "então":
 <br></br>
 <h2>O código final ficou assim:</h2>
 <img src="https://github.com/user-attachments/assets/ec515026-b5ce-4df7-a513-97ff9f8005d8">
+<br></br>
+<div align="center">
+<b>Return</b><br>
+<img src="https://github.com/user-attachments/assets/6cae9ab5-52ca-4a4d-bb41-f83bfe7ba02b">
+<br>
+Obs: Está com letras minúsculas e sem espaços entre as palavras, pois esse é o padrão exigido pelo Meta para valores referentes à cidade.
 
+<br></br>
+
+<h1>FEEDBACK:</h1>
+Recentemente compartilhei esse mesmo código com um profissional da área de Traqueamento Avançado para Anúncios, e foi tão útil para ele que ele acabou gravando um video sobre:
+
+https://youtu.be/WGRnwLpr2Co?si=WSYvPGNXngwgV1Rn&t=1610
+
+Eu sou citado aos 26:51 desse video
+
+
+<h1>Conclusão:</h1>
 </body>
 
 
