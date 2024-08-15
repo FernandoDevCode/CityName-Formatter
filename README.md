@@ -70,6 +70,7 @@ Eu precisava entender como incluir em meu código a variável da cidade, recebid
 Após estudar alguns códigos de modelos prontos da galeria do google,eu descobri como eu acesso não só a variável da cidade mas qualquer outra variável enviada para meu GTM Server, e assim nasce as 2 primeiras linhas do meu código:<br>
 <div align="center"><img src="https://github.com/user-attachments/assets/6c9cbfca-f1a4-4f64-8656-69ef4c2a66a1"></div>
 
+
 <h1>Finalizando o código</h1>
 Com acesso a variável da cidade,eu precisava apenas transformar ISO-8859-1 para UTF-8<br></br>
 A primeira coisa que me veio à mente foi usar o <b>TextDecoder</b> e <b>TextEncoder</b> no JavaScript para fazer todo o processo de transformação das codificações e por fim retornar o X-GEO-CITY como UTF-8 (Perfeito!😁)
@@ -93,8 +94,8 @@ Abri um codificador/decodificador online de ISO-8859-1 para UTF-8 (vice-versa) e
 
 Em seguida, apliquei a seguinte lógica de "se" e "então":
 <br></br>
-<blockquote>Verifique cada caractere na variável `cityName`. Se identificar "Ã©" (ISO-8859-1), converta-o para "é" (UTF-8). Após finalizar a verificação de todos os caracteres, retorne `cityName` com todas as substituições efetuadas. Dessa forma, garantimos que a variável estará em UTF-8, sem erros de acentuação, eliminando qualquer risco de prejudicar a inteligência das campanhas de anúncios do nosso cliente.
-</blockquote>
+<blockquote>Verifique cada caractere na variável `cityName`. Se identificar "Ã©" (ISO-8859-1), converta-o para "é" (UTF-8). Após finalizar a verificação de todos os caracteres, retorne `cityName` com todas as substituições efetuadas.</blockquote>
+Dessa forma, garantimos que a variável estará em UTF-8, sem erros de acentuação, eliminando qualquer risco de prejudicar a inteligência das campanhas de anúncios do nosso cliente.
 
 <br></br>
 <h2>O código final ficou assim:</h2>
