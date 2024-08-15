@@ -90,7 +90,9 @@ Assim...fui obrigado a escrever o código como se estivesse de volta às primeir
 <h2>Para isso...</h2>
 
 Abri um codificador/decodificador online de ISO-8859-1 para UTF-8 (vice-versa) e, com isso, identifiquei os caracteres correspondentes em ISO-8859-1 para cada acento usado em nosso idioma (UTF-8), incluindo o "ç".
-
+<br></br>
+<img src="https://github.com/user-attachments/assets/cc5ec5aa-2b91-456f-9968-5ce5dd3758a6">
+<br></br>
 Em seguida, apliquei a seguinte lógica de "se" e "então":
 <br></br>
 <blockquote>Verifique cada caractere na variável `cityName`. Se identificar "Ã©" (ISO-8859-1), converta-o para "é" (UTF-8). Após finalizar a verificação de todos os caracteres, retorne `cityName` com todas as substituições efetuadas.</blockquote>
