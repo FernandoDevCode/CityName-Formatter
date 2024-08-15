@@ -85,8 +85,7 @@ Por isso o erro acima😫
 
 <h1>Como se fosse a primeira vez...</h1>
 
-Assim fui obrigado a escrever o código como se estivesse novamente nas primeiras semanas aprendendo programação<br> 
-(Tive que codar o mais simples possivel).
+Assim...fui obrigado a escrever o código como se estivesse de volta às primeiras semanas de aprendizado em programação, mantendo tudo o mais simples possível.
 <br></br>
 <h2>Para isso...</h2>
 
