@@ -112,6 +112,8 @@ Obs: Está com letras minúsculas e sem espaços entre as palavras, pois esse é
 <h1>FEEDBACK:</h1>
 Recentemente compartilhei esse mesmo código com um profissional da área de Traqueamento Avançado para Anúncios, e foi tão útil para ele que ele acabou gravando um video sobre:
 <br></br>
+<img src="https://github.com/user-attachments/assets/72161250-6299-4ed0-8d1b-4c8811aeb5f9">
+
 https://youtu.be/WGRnwLpr2Co?si=WSYvPGNXngwgV1Rn&t=1610
 <br><I>O código é citado aos 26:51 desse video</I>
 <br></br>
