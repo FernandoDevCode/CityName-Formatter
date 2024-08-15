@@ -116,7 +116,7 @@ Recentemente compartilhei esse mesmo código com um profissional da área de Tra
 <br></br>
 <img src="https://github.com/user-attachments/assets/72161250-6299-4ed0-8d1b-4c8811aeb5f9">
 
-https://youtu.be/WGRnwLpr2Co?si=WSYvPGNXngwgV1Rn&t=1610
+https://youtu.be/WGRnwLpr2Co?si=c9a3P9zvCpB3DBHS&t=1603
 <br><I>O código é citado aos 26:43 desse video</I>
 <br></br>
 
