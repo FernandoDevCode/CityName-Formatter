@@ -95,7 +95,7 @@ Abri um codificador/decodificador online de ISO-8859-1 para UTF-8 (vice-versa) e
 <br></br>
 Em seguida, apliquei a seguinte lógica de "se" e "então":
 <br></br>
-<blockquote>Verifique cada caractere na variável `cityName`. Se identificar "Ã©" (ISO-8859-1), converta-o para "é" (UTF-8). Após finalizar a verificação de todos os caracteres, retorne `cityName` com todas as substituições efetuadas.</blockquote>
+<blockquote>Verifique cada caractere na variável `cityName`. Se identificar <b>ISO-8859-1</b> (por exemplo: "Ã©"), converta-o para <b>UTF-8</b> ("é"). Após finalizar a verificação de todos os caracteres, retorne `cityName` com todas as substituições efetuadas.</blockquote>
 Dessa forma, garantimos que a variável estará em UTF-8, sem erros de acentuação, eliminando qualquer risco de prejudicar a inteligência das campanhas de anúncios do nosso cliente.
 
 <br></br>
